@@ -461,3 +461,8 @@
 ##### Alias: 잠금해제
 ##### OwnerOnly: true
 </details>
+
+---
+
+# Legal Stuff
+• Copyright (c) 2021 ChillCord Development
