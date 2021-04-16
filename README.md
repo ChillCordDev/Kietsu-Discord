@@ -5,6 +5,8 @@
 
 ---
 
+<img width="150" height="150" align="left" style="float: right; margin: 0 10px 10px 0;" alt="Kietsu" src="https://images-ext-1.discordapp.net/external/ZQFfps74cuFQkaexrVznexRD1MXn4wpK9idedhfo7jY/%3F3940567495/https/www10.lunapic.com/editor/working/161855469740308390">
+
 # Commands
 <details>
     <summary>Economy</summary>
