@@ -469,4 +469,4 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 10px 0;" alt="Kietsu" src="https://images-ext-2.discordapp.net/external/Aiqftdij3RAQQ_fDPrkxKOpxoiBYitG5vuqOhybqtX8/%3F394835298/https/www10.lunapic.com/editor/working/161855469740308390">
 
 # Contact Info
-• Copyright (c) 2021 ChillCord Development
+* Twitter: https://twitter.com/ChillCordDev
