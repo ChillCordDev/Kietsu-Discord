@@ -470,3 +470,4 @@
 
 # Contact Info
 * Twitter: https://twitter.com/ChillCordDev
+* Email: inquiries@prettychill.dev
