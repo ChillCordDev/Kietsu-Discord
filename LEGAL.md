@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 10px 0;" alt="Kietsu2" src="https://media.discordapp.net/attachments/634456090909605908/832477131207868456/image0.png">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 10px 0;" alt="Kietsu2" src="https://media.discordapp.net/attachments/634456090909605908/832503117048184902/image0.webp">
 
 # Terms and Privacy
 
