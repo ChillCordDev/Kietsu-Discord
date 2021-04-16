@@ -1,4 +1,4 @@
-# Privacy and Terms
+# Terms and Privacy
 
 ## Collected Data
 Kietsu uses Discord for authentication in place of having our own accounts as well as offering Discord Users with a moderation service. Because of this we store information about your Discord account and any guild that you and or the bot are a member of in our secure databases. This information includes:
