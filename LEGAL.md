@@ -25,5 +25,5 @@ By inviting the bot you agree to be bound to the following terms:
 * Discord User Avatar
 * Discord Server ID & Bot Prefix.
 * Collect a list of the users guilds.
-* 
+
 2. Abuse of the bots services will result in a blacklist.
