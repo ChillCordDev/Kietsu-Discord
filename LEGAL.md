@@ -1,3 +1,5 @@
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 10px 0;" alt="Kietsu2" src="https://media.discordapp.net/attachments/634456090909605908/832427117311950879/image0.png">
+
 # Terms and Privacy
 
 ## Collected Data
